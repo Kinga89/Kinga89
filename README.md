@@ -1,10 +1,5 @@
-### Hi there 👋
-
-<!--
-**Kinga89/Kinga89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning web technologies
-- 📫 How to reach me: ...
+- 🔭 Front-end development student
+- 🏤 Urban planner
+- 🌱 Vegetarian & coffee lover
 - 😄 Pronouns: she/her
--->
+- 🏠 Location: Oslo
