@@ -16,22 +16,6 @@
 - 🌱 ☕Vegetarian & coffee lover
 - 👩 Pronouns: she/her
 - 🏠 Location: Oslo
-
-
-
-<div id="social" align="center">
-<a href="https://www.linkedin.com/in/kinga-kot-3a4b8a149/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </a>
-  <a href="kotkiga89@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
- </a>
-</div>
-
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kinga89&style=flat-square&color=blue" alt=""/>
-</div>
  
  
  ---
@@ -60,7 +44,27 @@
 </div>
 
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kinga89&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinga89&layout=compact)](https://github.com/Kinga89/github-readme-stats)
 
+---
+
+<div id="social" align="center">
+<a href="https://www.linkedin.com/in/kinga-kot-3a4b8a149/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ </a>
+  <a href="kotkiga89@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+ </a>
+</div>
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kinga89&style=flat-square&color=blue" alt=""/>
+</div>
